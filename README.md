@@ -1,7 +1,7 @@
 <h1 align="center">Hlw 👋 tech geniuses, I'm Susmita Das👩‍💻</h1>
 
 <div align="center">
-    <img src="https://github.com/Susmita-Dev-04/Susmita-Dev-04/blob/main/BannerGIF.gif" alt="Banner GIF" width="600">
+    <img src="https://github.com/Susmita-Dev-04/Susmita-Dev-04/blob/main/BannerGIF.gif" alt="Banner GIF" width="1200">
 </div>
 <h3 align="center">I'm passionate✨ about web development💻,diving into AI/ML 🤖🧠 & designing creative visuals🎨🚀🌟</h3>
 <hr>
