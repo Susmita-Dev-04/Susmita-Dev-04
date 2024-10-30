@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-dev-04" /> </p>
 <h3 align="left" style="font-weight: bold;">💫About Me....☻:</h3>
 
-- 🔭 I’m currently working on **</Disease Prediction and Medical Recommendation System> using Flask(Based on ML)**
 
 - 🌱 I’m currently learning **</DSA using Java> through NPTEL | JavaScript**
 
