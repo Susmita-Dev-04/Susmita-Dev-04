@@ -4,9 +4,7 @@
 <h3 align="center">I'm passionate✨ about web development💻,diving into AI/ML 🤖🧠 & designing creative visuals🎨🚀🌟</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-dev-04" /> </p>
-<div align="left" style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); max-width: 400px; background-color: #fff;">
-        <h3 style="margin: 0;">💫 About Me... ☻</h3>
-</div>
+<h3 style="margin: 0; border: 2px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); max-width: 400px; background-color: #fff;">💫 About Me... ☻</h3>
 
 
 - 🔭 I’m currently working on **</Disease Prediction and Medical Recommendation System> using Flask(Based on ML)**
