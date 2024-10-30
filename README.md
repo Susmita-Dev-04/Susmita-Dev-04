@@ -5,9 +5,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-dev-04" /> </p>
 <div align="left" style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); max-width: 400px; background-color: #fff;">
-    <div style="background: linear-gradient(90deg, #ff9a9e, #fad0c4); padding: 15px; border-radius: 10px; color: #333; font-weight: bold; font-size: 1.5em; text-align: center;">
         <h3 style="margin: 0;">💫 About Me... ☻</h3>
-    </div>
 </div>
 
 
