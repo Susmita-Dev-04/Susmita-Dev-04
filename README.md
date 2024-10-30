@@ -3,6 +3,7 @@
 <div align="center"> <img src="https://github.com/Susmita-Dev-04/Susmita-Dev-04/blob/main/banner.jpg"></div>
 <h3 align="center">I'm passionate✨ about web development💻,diving into AI/ML 🤖🧠 & designing creative visuals🎨🚀🌟</h3>
 <hr>
+<img align="right" alt="coding" width="400" src="https://github.com/Susmita-Dev-04/Susmita-Dev-04/blob/main/side.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-dev-04" /> </p>
 
 - 🔭 I’m currently working on **</Disease Prediction and Medical Recommendation System> using Flask(Based on ML)**
