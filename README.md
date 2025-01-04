@@ -1,5 +1,7 @@
 <h1 align="center">Hlw 👋 tech geniuses, I'm Susmita Das👩‍💻</h1>
 <h3 align="center">I'm passionate about web development💻,diving into AI/ML🤖🧠 & designing creative visuals</h3>
+
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/girl-is-doing-coding-on-laptop-12029607">
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-dev-04" /> </p>
 <h3 align="left" style="font-weight: bold;">💫About Me....☻:</h3>
