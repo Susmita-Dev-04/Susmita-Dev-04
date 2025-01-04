@@ -1,9 +1,5 @@
 <h1 align="center">Hlw 👋 tech geniuses, I'm Susmita Das👩‍💻</h1>
-
-<div align="center">
-    <img src="https://github.com/Susmita-Dev-04/Susmita-Dev-04/blob/main/banner.gif" alt="Banner GIF" width="1200">
-</div>
-<h3 align="center">I'm passionate✨ about web development💻,diving into AI/ML 🤖🧠 & designing creative visuals🎨🚀🌟</h3>
+<h3 align="center">I'm passionate about web development💻,diving into AI/ML🤖🧠 & designing creative visuals</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-dev-04" /> </p>
 <h3 align="left" style="font-weight: bold;">💫About Me....☻:</h3>
@@ -21,7 +17,7 @@
 
 - 📫 How to reach me **[LinkedIn](susmita-das-2b61a6312) | [Email](findsusmitadas18@gmail.com)**
 
-- ⚡ Fun fact **</🍫Chocolate preferences can be like coding👩‍💻 styles....😄>**
+- ⚡ Fun fact **</I treat every commit like a mini victory and love learning new coding tricks!>**
 <hr>
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
