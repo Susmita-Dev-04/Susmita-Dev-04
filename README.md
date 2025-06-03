@@ -1,23 +1,35 @@
-<h1 align="center">Hlw 👋 tech geniuses, I'm Susmita Das👩‍💻</h1>
-<h3 align="center">I'm passionate about web development💻,diving into AI/ML🤖🧠 & designing creative visuals</h3>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+
+  <div style="flex: 1; min-width: 200px;">
+    <h1 style="margin: 0;">Hey there 👋 Tech Explorers, I'm <span style="color:#f06292">Susmita Das</span> 👩‍💻</h1>
+    <h5 style="margin: 0;">A Web Dev enthusiast 💻 | Diving into AI/ML on the Side🤖</h5>
+  </div>
+</div>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-dev-04" /> </p>
-<h3 align="left" style="font-weight: bold;">💫About Me....☻:</h3>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=susmita-dev-04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
-- 🌱 I’m currently learning **</DSA using Java> through NPTEL | JavaScript**
+### 🌟 A Little About Me...<☻>
 
-- 👯 I’m looking to collaborate on **</Web development and AI projects>**
+Hey, I'm Susmita — a curious coder, a web crafter, and an AI learner, always on a journey to bring ideas to life with **code + creativity**. 
+Here's what I'm currently up to:
 
-- 🤝 I’m looking for help with **</Exploring best practices in responsive design and user experience>**
+- 🚀 Currently Exploring **<ReactJS | AI/ML>**
 
-- 👩‍💻 All of my projects are available at [https://github.com/Susmita-Dev-04](https://github.com/Susmita-Dev-04)
+- 🤝 Love to Collaborate On **<Web development and AI/ML projects>**
 
-- 💬 Ask me about **</Java, Python, Web Development tech>**
+- 🛠 My Projects Live At  **<➡️ [GitHub Portfolio](https://github.com/Susmita-Dev-04)>**
 
-- 📫 How to reach me **[LinkedIn](susmita-das-2b61a6312) | [Email](findsusmitadas18@gmail.com)**
+- 💬 Always happy to talk about  **<Java ☕ | Python 🐍 | Web-Dev-Tech 🌐 | AI/ML 🤖🧠 | Project Ideas 💡>**
 
-- ⚡ Fun fact **</I treat every commit like a mini victory and love learning new coding tricks!>**
+- 📬 Let's Connect  **<[LinkedIn](https://linkedin.com/in/susmita-das-2b61a6312) | [Email Me](mailto:findsusmitadas18@gmail.com)>**
+
+✨ **Fun Fact**:  
+> *I believe every `git commit` is a step closer to mastery... and caffeine helps!* ☕
+
 <hr>
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
