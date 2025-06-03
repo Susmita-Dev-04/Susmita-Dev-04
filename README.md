@@ -1,10 +1,18 @@
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div style="display: flex; align-items: center; justify-content: space-between; border: 1px solid #ddd; padding: 20px; max-width: 800px; margin: auto;">
 
-  <div style="flex: 1; min-width: 200px;">
+  <!-- Left side text -->
+  <div style="flex: 1; padding-right: 20px;">
     <h1 style="margin: 0;">Hey there 👋 Tech Explorers, I'm <span style="color:#f06292">Susmita Das</span> 👩‍💻</h1>
-    <h5 style="margin: 0;">A Web Dev enthusiast 💻 | Diving into AI/ML on the Side🤖</h5>
+    <h5 style="margin: 5px 0 0;">A Web Dev enthusiast 💻 | Diving into AI/ML on the Side 🤖</h5>
   </div>
+
+  <!-- Right side image -->
+  <div style="flex: 0 0 auto;">
+    <img src="https://github.com/Susmita-Dev-04/Susmita-Dev-04/blob/main/HeroImage.png" alt="Susmita" width="150" style="border-radius: 10px;" />
+  </div>
+
 </div>
+
 <hr>
 
 <p align="right">
@@ -13,10 +21,6 @@
 
 
 ### 🌟 A Little About Me...<☻>
-
-Hey, I'm Susmita — a curious coder, a web crafter, and an AI learner, always on a journey to bring ideas to life with **code + creativity**. 
-Here's what I'm currently up to:
-
 - 🚀 Currently Exploring **<ReactJS | AI/ML>**
 
 - 🤝 Love to Collaborate On **<Web development and AI/ML projects>**
