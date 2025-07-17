@@ -12,7 +12,7 @@
 
 
 ### 🌟 A Little About Me...<☻>
-- 🚀 Currently diving deep into the **<MERNstack>**|Decoding intelligence with **<AI/ML>**
+- 🚀 Currently diving deep into the **MERN Stack** | Decoding intelligence with **<AI/ML>**
 
 - 🤝 Love to Collaborate On **<Web development and AI/ML projects>**
 
