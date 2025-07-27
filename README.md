@@ -22,6 +22,8 @@
 
 - 📬 Let's Connect  **<[LinkedIn](https://linkedin.com/in/susmita-das-2b61a6312) | [Email Me](mailto:findsusmitadas18@gmail.com)>**
 
+- 🌐 Visit my portfolio: **[🔗 Click here](https://my-portfolio-three-zeta-60.vercel.app/)**
+  
 ✨ **Fun Fact**:  
 > *I believe every `git commit` is a step closer to mastery... and caffeine helps!* ☕
 
