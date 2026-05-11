@@ -144,23 +144,31 @@
 
 <hr>
 
+<hr>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=susmita-dev-04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=susmita-dev-04&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmita-dev-04&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=susmita-dev-04&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=susmita-dev-04&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=susmita-dev-04&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 <hr>
 
 <h3 align="center">
   ✨ Coding Dreams into Intelligent Solutions ✨
-</h3>dme-streak-stats.herokuapp.com/?user=susmita-dev-04&" alt="susmita-dev-04" /></p>
-
+</h3>
