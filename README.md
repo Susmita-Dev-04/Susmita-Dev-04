@@ -117,7 +117,7 @@ ML-based target classification system using kinematic data for coastal surveilla
 </p>
 
 <p align="center">
-<a href="https://github.com/Susmita-Dev-04/Aeroborne-target-identification-system">
+<a href="https://github.com/Susmita-Dev-04/AeroSense-target-identification-system">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
