@@ -98,36 +98,93 @@
 </p>
 
 <hr>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-<ul>
-  <li>
-    🛰️ <b>Air-borne Target Classification using Kinematic Data</b><br>
-    Real-time ML-based defense surveillance system developed during DRDO Internship.
-  </li>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛰️ Air-borne Target Classification</h3>
+      <p align="center">
+        ML-based target classification system using kinematic data for coastal surveillance radars, developed during DRDO Internship.
+      </p>
+      <p align="center">
+        <b>Tech:</b> Python | Machine Learning | Streamlit | Real-Time Data
+      </p>
+      <p align="center">
+        <a href="https://github.com/Susmita-Dev-04/Aeroborne-target-identification-system">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
 
-  <br>
+    <td width="50%">
+      <h3 align="center">🧠 Brain Tumor Detection</h3>
+      <p align="center">
+        CNN-based medical image classification model for brain tumor detection using MRI images.
+      </p>
+      <p align="center">
+        <b>Tech:</b> TensorFlow | Keras | CNN | Python
+      </p>
+      <p align="center">
+        <a href="https://github.com/susmita-dev-04/brain-tumor-detection">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 
-  <li>
-    🧠 <b>Brain Tumor Detection</b><br>
-    CNN-based medical imaging project using TensorFlow & Keras with 87% accuracy.
-  </li>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💊 Patient-Centric Medicine Planner</h3>
+      <p align="center">
+        ML-powered disease prediction and medicine recommendation system based on user symptoms.
+      </p>
+      <p align="center">
+        <b>Tech:</b> Machine Learning | Flask | Python | SVC
+      </p>
+      <p align="center">
+        <a href="https://github.com/Susmita-Dev-04/Patient-Centric-Medicine-Planner">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
 
-  <br>
+    <td width="50%">
+      <h3 align="center">📝 SnapNote-PasteApp</h3>
+      <p align="center">
+        Responsive note-taking web app for saving, managing, and organizing user notes.
+      </p>
+      <p align="center">
+        <b>Tech:</b> ReactJS | Tailwind CSS
+      </p>
+      <p align="center">
+        <a href="https://github.com/Susmita-Dev-04/snapnote-pasteapp">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 
-  <li>
-    💊 <b>Patient-Centric Medicine Planner</b><br>
-    ML-powered disease prediction and medicine recommendation system using Flask.
-  </li>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🎓 University Management System</h3>
+      <p align="center">
+        Java and MySQL based management system with JDBC integration for efficient database operations.
+      </p>
+      <p align="center">
+        <b>Tech:</b> Java | MySQL | JDBC
+      </p>
+      <p align="center">
+        <a href="https://github.com/susmita-dev-04/university-management-system">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <br>
-
-  <li>
-    📝 <b>SnapNote - PasteApp NoteSaver</b><br>
-    Responsive React-based note management web application.
-  </li>
-</ul>
-
+<hr>
 <hr>
 
 <h2 align="center">🏆 Achievements</h2>
