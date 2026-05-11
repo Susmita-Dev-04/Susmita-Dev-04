@@ -232,25 +232,23 @@ Java and MySQL based management system with JDBC integration for efficient datab
 
 <hr>
 
-<hr>
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=susmita-dev-04&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Susmita-Dev-04&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180em"
   />
-  
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmita-dev-04&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmita-Dev-04&layout=compact&theme=tokyonight&hide_border=true" 
     height="180em"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=susmita-dev-04&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Susmita-Dev-04&theme=tokyonight&hide_border=true" 
     height="180em"
   />
 </p>
