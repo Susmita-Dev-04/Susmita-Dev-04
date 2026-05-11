@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 Tech Explorers, I'm <span style="color:#f06292">Susmita Das</span> 👩‍💻</h1>
-<h5 align="center">A Web Dev enthusiast 💻 | Diving into AI/ML on the Side🤖</h5>
+<h5 align="center">Former Intern at DRDO | Aspiring S/W Developer fusing AI/ML x Web for impactful tech | 2x Hackathon Winner | Coding with vision | @TechAlchemist</h5>
 
 <p align="center">
   <img src="https://github.com/Susmita-Dev-04/Susmita-Dev-04/blob/main/HeroImage.png" alt="Your Image Description" width="300"/>
