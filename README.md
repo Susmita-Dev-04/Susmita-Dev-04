@@ -12,17 +12,17 @@
 
 
 ### 🌟 A Little About Me...<☻>
-- 🚀 Currently diving deep into the **<MERN/Stack>** |&| Decoding intelligence with **<AI/ML>**
+- 🚀 Currently diving deep into Full Stack Development & Cloud Technologies ☁️ | Decoding intelligence with **<AI/ML>** 🤖🧠
 
-- 🤝 Love to Collaborate On **<Web development and AI/ML projects>**
+- 🤝 Love to collaborate on **<Software Development, AI/ML & Real-Time Data-Driven>** Projects
 
 - 🛠 My Projects Live At  **<➡️ [GitHub Portfolio](https://github.com/Susmita-Dev-04)>**
 
-- 💬 Always happy to talk about  **<Java ☕ | Python 🐍 | Web-Dev-Tech 🌐 | AI/ML 🤖🧠 | Project Ideas 💡>**
+- 💬 Always happy to talk about **<Java ☕ | Python 🐍 | DSA ⚡ | AI/ML 🤖🧠 | Cloud Computing ☁️ | Project Ideas 💡>**
 
 - 📬 Let's Connect  **<[LinkedIn](https://linkedin.com/in/susmita-das-2b61a6312) | [Email Me](mailto:findsusmitadas18@gmail.com)>**
 
-- 🌐 Visit my portfolio: **[🔗 Click here](https://my-portfolio-three-zeta-60.vercel.app/)**
+- 🌐 Visit my portfolio: **[🔗 Click here](https://d-susmita-portfolio.vercel.app/)**
   
 ✨ **Fun Fact**:  
 > *I believe every `git commit` is a step closer to mastery... and caffeine helps!* ☕
