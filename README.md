@@ -35,19 +35,27 @@
   <a href="https://linkedin.com/in/susmita-das-2b61a6312" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
   </a>
+  
   &nbsp;&nbsp;
+  
   <a href="https://github.com/Susmita-Dev-04" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
   </a>
+  
   &nbsp;&nbsp;
+
   <a href="https://www.hackerrank.com/findsusmitadas18" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" height="45"/>
   </a>
+  
   &nbsp;&nbsp;
+
   <a href="https://leetcode.com/find_susmita/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" height="45"/>
   </a>
+  
   &nbsp;&nbsp;
+
   <a href="https://kaggle.com/susmitah" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="45" height="45"/>
   </a>
@@ -58,7 +66,7 @@
 <h2 align="center">💻 Languages & Tools 🔧</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,bootstrap,mysql,git,github,vscode,django,flask" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,bootstrap,mysql,postgresql,git,github,vscode,django,flask" />
 </p>
 
 <p align="center">
@@ -67,11 +75,61 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  
   &nbsp;&nbsp;
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="45"/>
+  
   &nbsp;&nbsp;
+  
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/>
 </p>
+
+<hr>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<ul>
+  <li>
+    🛰️ <b>Air-borne Target Classification using Kinematic Data</b><br>
+    Real-time ML-based defense surveillance system developed during DRDO Internship.
+  </li>
+
+  <br>
+
+  <li>
+    🧠 <b>Brain Tumor Detection</b><br>
+    CNN-based medical imaging project using TensorFlow & Keras with 87% accuracy.
+  </li>
+
+  <br>
+
+  <li>
+    💊 <b>Patient-Centric Medicine Planner</b><br>
+    ML-powered disease prediction and medicine recommendation system using Flask.
+  </li>
+
+  <br>
+
+  <li>
+    📝 <b>SnapNote - PasteApp NoteSaver</b><br>
+    Responsive React-based note management web application.
+  </li>
+</ul>
+
+<hr>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<ul>
+  <li>🥇 Winner — Hackfest ADVAITA 2025 (IIIT Bhubaneswar)</li>
+  
+  <li>🥇 Winner — GIET Hackathon 2025</li>
+  
+  <li>🏅 Secured 4th Position — IIT Bhubaneswar ML Hackathon (Pravaah25)</li>
+  
+  <li>📜 NPTEL Elite Certifications in DSA, Cloud Computing, Python & ML</li>
+</ul>
 
 <hr>
 
@@ -89,5 +147,9 @@
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=susmita-dev-04&theme=tokyonight&hide_border=true" />
 </p>
 
-<hr>c="https://github-readme-streak-stats.herokuapp.com/?user=susmita-dev-04&" alt="susmita-dev-04" /></p>
+<hr>
+
+<h3 align="center">
+  ✨ Coding Dreams into Intelligent Solutions ✨
+</h3>dme-streak-stats.herokuapp.com/?user=susmita-dev-04&" alt="susmita-dev-04" /></p>
 
